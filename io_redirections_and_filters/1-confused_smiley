@@ -1,2 +1,3 @@
 #!/bin/bash
-printf '%s\n' '\"'\''Best School"'\''\1$\:\\*\\:)'
+cat << 'EOF'
+\"'Best School"'\1$\:\\*\\:)
